@@ -10,5 +10,5 @@ package com.map;
  * @Version V1.0
  **/
 public class HashMap {
-    
+
 }
